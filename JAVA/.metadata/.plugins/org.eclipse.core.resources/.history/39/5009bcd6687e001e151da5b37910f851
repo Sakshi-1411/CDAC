@@ -1,0 +1,32 @@
+import java.util.Scanner;
+
+public class PalindromePrime {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.println("enter a number");
+		int num = sc.nextInt();
+		int t = num ;
+		int  rev = 0;
+		int i;
+		while(num!=0) {
+			rev = rev *10 +(num%10); 
+			num  = num /10; 
+		}
+		if(rev==t)
+		{
+			for(i=2;i<rev;i++)
+			{
+				if(rev % i == 0)
+				{
+					System.out.println("not a prime palindrome");
+					break;
+				}
+				if(rev==i) 
+					System.out.println("Is a prime palindrome number");
+				}
+			else
+				System.out.println(t+"is not a prime palindrome number");
+			
+		}
+		}
+}

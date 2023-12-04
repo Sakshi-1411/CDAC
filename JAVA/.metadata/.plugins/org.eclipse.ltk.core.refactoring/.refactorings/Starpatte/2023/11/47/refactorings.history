@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;pattern.MirrorRigthtriangle&apos; to &apos;MirrorRigthtriangleDOwn&apos;&#x0D;&#x0A;- Original project: &apos;Starpatte&apos;&#x0D;&#x0A;- Original element: &apos;pattern.MirrorRigthtriangle&apos;&#x0D;&#x0A;- Renamed element: &apos;pattern.MirrorRigthtriangleDOwn&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MirrorRigthtriangle&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;pattern{MirrorRigthtriangle.java[MirrorRigthtriangle" matchStrategy="1" name="MirrorRigthtriangleDOwn" qualified="false" references="true" similarDeclarations="false" stamp="1700594796501" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,10 @@
+!SESSION 2023-11-20 12:30:12.469 -----------------------------------------------
+eclipse.buildId=4.29.0.20230907-1200
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -product org.eclipse.epp.package.jee.product -data C:\Users\User\eclipse-workspace\DecimaltoBinary -dev file:C:/Users/User/eclipse-workspace/.metadata/.plugins/org.eclipse.pde.core/New_configuration (2)/dev.properties -os win32 -ws win32 -arch x86_64 -consoleLog
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-11-20 12:30:22.352
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
